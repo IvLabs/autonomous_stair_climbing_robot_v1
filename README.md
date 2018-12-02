@@ -1,3 +1,2 @@
-# autonomous_stair_climbing
-# change the package name in the cmakelist to the repository name - i.e autonomous_stair_climbing instead of beginners_tutorials
-# Same do in the package.xml
+# Autonomous Stair Climbing
+The `stair_detection` folder contains a Python wrapper [(courtesy of madhawav)](https://github.com/madhawav/YOLO3-4-Py) modified for our Stair Detection task. Weights of tiny-YOLOv3 trained for this specific purpose are also provided in the same folder.
